@@ -15,7 +15,8 @@ public static void main(String[] args) {
 	a.employee("john", 2);
 	a.employee("jack", "jones");
 	
-	
+		a.employee("jack", "jones");
+
 	
 }
 	
